@@ -8,6 +8,8 @@ double R(int i){
     return 0;
 }
 
+//вот тут будет удаен коментарий
+
 
 int
 func (double t, const double u[],double f[],
